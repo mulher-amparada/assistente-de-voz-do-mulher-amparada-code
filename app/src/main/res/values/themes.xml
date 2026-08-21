@@ -2,7 +2,7 @@
 <resources>
 
     <style
-        name="Theme.AndroidWebViewPDFViewerApplication"
+        name="Theme.App"
         parent="Theme.Material3.Dark.NoActionBar">
 
         <item name="android:windowLightStatusBar">false</item>
