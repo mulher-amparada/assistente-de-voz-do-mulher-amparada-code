@@ -25,7 +25,7 @@ import androidx.core.app.NotificationCompat
 import android.provider.CallLog
 import android.provider.MediaStore
 import android.content.ContentUris
-import com.webviewtemplate.webviewtemplate1.R
+
 
 object Comandos {
 
